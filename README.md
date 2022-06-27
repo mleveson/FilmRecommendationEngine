@@ -1,5 +1,5 @@
 # Film Recommendation Engine
 
-A film recommendation engine using a Bag of Words model and cosine similarity to recommend films to the user
+A simple but effective film recommendation engine using a Bag of Words model and cosine similarity to recommend films to the user
 
 Author: Merav leveson
